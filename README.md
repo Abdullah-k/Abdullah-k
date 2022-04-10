@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdullah-k
-- 👀 I’m interested in free-lancing and web developing.
+- 👀 I’m interested in web developing.
 - 🌱 I’m currently learning javascript and bootstrap for my future goals.
 - 💞️ I’m looking to collaborate on free lancing project and developers to persue my development directions
 - 📫 My e-mail address is Abdullahkk.771@gmail.com
