@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning javascript and bootstrap for my future goals.
 - 💞️ I’m looking to collaborate on free lancing project and developers to persue my development directions
-- 📫 My e-mail address is Abdullahkk.771@gmail.com
+- 📫 My e-mail address is Abdullah771.ak@gmail.com
 
 <!---
 Abdullah-k/Abdullah-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
